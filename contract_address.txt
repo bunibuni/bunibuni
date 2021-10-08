@@ -1,4 +1,5 @@
 {
+   PvE battle is temporarily disabled until 2021-10-15 11AM to prepare for the zero-gas battle upgrade.
    "vbuni":"0x7CDb479ACd5Efc8B8B432670e70665BC8a5b1234",
    "buniTokenContract":"0x0E7BeEc376099429b85639Eb3abE7cF22694ed49",
    "gameContract":"0x6f9646a8e5Bf4AC7b71D9BB0F21159112AdB572d",
